@@ -1,0 +1,8 @@
+C:\Users\Wind\OneDrive\Desktop\Code nguồn\bài 1\(c)\(c)\bin\Debug\(c).exe.config
+C:\Users\Wind\OneDrive\Desktop\Code nguồn\bài 1\(c)\(c)\bin\Debug\(c).exe
+C:\Users\Wind\OneDrive\Desktop\Code nguồn\bài 1\(c)\(c)\bin\Debug\(c).pdb
+C:\Users\Wind\OneDrive\Desktop\Code nguồn\bài 1\(c)\(c)\obj\Debug\(c).csproj.AssemblyReference.cache
+C:\Users\Wind\OneDrive\Desktop\Code nguồn\bài 1\(c)\(c)\obj\Debug\(c).csproj.SuggestedBindingRedirects.cache
+C:\Users\Wind\OneDrive\Desktop\Code nguồn\bài 1\(c)\(c)\obj\Debug\(c).csproj.CoreCompileInputs.cache
+C:\Users\Wind\OneDrive\Desktop\Code nguồn\bài 1\(c)\(c)\obj\Debug\(c).exe
+C:\Users\Wind\OneDrive\Desktop\Code nguồn\bài 1\(c)\(c)\obj\Debug\(c).pdb

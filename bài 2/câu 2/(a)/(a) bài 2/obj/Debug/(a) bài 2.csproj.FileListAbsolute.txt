@@ -1,0 +1,8 @@
+C:\Users\Wind\source\repos\(a) bài 2\(a) bài 2\obj\Debug\(a) bài 2.csproj.AssemblyReference.cache
+C:\Users\Wind\source\repos\(a) bài 2\(a) bài 2\obj\Debug\(a) bài 2.csproj.SuggestedBindingRedirects.cache
+C:\Users\Wind\source\repos\(a) bài 2\(a) bài 2\obj\Debug\(a) bài 2.csproj.CoreCompileInputs.cache
+C:\Users\Wind\source\repos\(a) bài 2\(a) bài 2\bin\Debug\(a) bài 2.exe.config
+C:\Users\Wind\source\repos\(a) bài 2\(a) bài 2\bin\Debug\(a) bài 2.exe
+C:\Users\Wind\source\repos\(a) bài 2\(a) bài 2\bin\Debug\(a) bài 2.pdb
+C:\Users\Wind\source\repos\(a) bài 2\(a) bài 2\obj\Debug\(a) bài 2.exe
+C:\Users\Wind\source\repos\(a) bài 2\(a) bài 2\obj\Debug\(a) bài 2.pdb
